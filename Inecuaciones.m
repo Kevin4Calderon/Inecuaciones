@@ -2,7 +2,7 @@
 % Título:       Resolucion de inecuaciones 
 % Descripción:  Script para recordar conceptos de números
 % Autores:      Diego Armando Cruz  Hernández
-%               Carlos Alberto Godoy Cruz 
+%                Carlos Alberto Godoy Cruz 
 %               Kevin Yoan Calderón García 
 % Fecha:        20211007
 % Versión:      1
